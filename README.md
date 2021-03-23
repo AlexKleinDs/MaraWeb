@@ -13,8 +13,7 @@ On a donc une grande liste de tryptiques inm-objectif-sport, nous avons beaucoup
 - Nombre de fichiers : 3    
 - Format : CSV, séparateur : |    
 - Taille du fichier principal : sport.csv 14,3 MO     
-- Tailles des deux autre fichier : annotated 424 ko,       
-                                 Marathon web_outcomes_detection 57ko.          
+- Tailles des deux autre fichier : annotated 424 ko,   Marathon web_outcomes_detection 57ko.          
 
 ### Les variables
 Les variables sont les suivantes :   
