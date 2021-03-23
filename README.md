@@ -16,22 +16,22 @@ Taille du fichier principal : sport.csv 14,3 MO
 Tailles des deux autre fichier : annotated 424 ko, Marathon web_outcomes_detection 57ko.
 
 ### Les variables
-Les variables sont les suivantes : 
-'pmid' : identifiant PubMed de l'article
-'doi' : identifiant international de l'article
-'npi' : non-internventional intervention, ce que nous appellons les TNM pour thérapie non médicamenteuse
-'ttl': title de l'article
-'jn': journalname - nom du journal de l'article
-'pub' : date de publication de l'article
-'hg' : Health Goal (Prevent, Care or Cure pour Prévention, soin ou guérision)
-'pop' : type de population étudiée Adulte, Agée, Enfant... 
-'out' : outcome - correspond au résultat ### Attention à filtrer les catégories economical et health ne présentent pas d'intérêt ici ###
-'abs' : abstract 
-'stype' : study type il s'agit du mode de réalisatin de l'étude revue systématique de al littérature, études comparatives etc.
-'cntry' : country (pays du 1er auteur)
-'rd' : research design (décrit la façon dont l'étude a été réalisée interventionnelle, observationnelle...)
-'method': lié au type d'étude (SR: revue systématique de la littérature, MA: méta-analyses, RCT: essai clinique randommisé...)
-'sport' : sports concernés
+Les variables sont les suivantes :   
+'pmid' : identifiant PubMed de l'article   
+'doi' : identifiant international de l'article     
+'npi' : non-internventional intervention, ce que nous appellons les TNM pour thérapie non médicamenteuse     
+'ttl': title de l'article     
+'jn': journalname - nom du journal de l'article     
+'pub' : date de publication de l'article     
+'hg' : Health Goal (Prevent, Care or Cure pour Prévention, soin ou guérision)     
+'pop' : type de population étudiée Adulte, Agée, Enfant...      
+'out' : outcome - correspond au résultat ### Attention à filtrer les catégories economical et health ne présentent pas d'intérêt ici ###     
+'abs' : abstract      
+'stype' : study type il s'agit du mode de réalisatin de l'étude revue systématique de al littérature, études comparatives etc.    
+'cntry' : country (pays du 1er auteur)     
+'rd' : research design (décrit la façon dont l'étude a été réalisée interventionnelle, observationnelle...)    
+'method': lié au type d'étude (SR: revue systématique de la littérature, MA: méta-analyses, RCT: essai clinique randommisé...)       
+'sport' : sports concernés      
 
 ## Objectifs :
 
