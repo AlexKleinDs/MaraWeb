@@ -10,29 +10,29 @@ Il s’agit de rendre accessible aux amoureux du sport les dernières tendances 
 Chaque publication fait le lien entre un ou des sports, un ou des objectifs (out), une ou des interventions non médicamenteuses (npi)
 On a donc une grande liste de tryptiques inm-objectif-sport, nous avons beaucoup de valeurs manquantes 
 
-Nombre de fichiers : 3    
-Format : CSV, séparateur : |    
-Taille du fichier principal : sport.csv 14,3 MO     
-Tailles des deux autre fichier : annotated 424 ko,       
+- Nombre de fichiers : 3    
+- Format : CSV, séparateur : |    
+- Taille du fichier principal : sport.csv 14,3 MO     
+- Tailles des deux autre fichier : annotated 424 ko,       
                                  Marathon web_outcomes_detection 57ko.          
 
 ### Les variables
 Les variables sont les suivantes :   
-'pmid' : identifiant PubMed de l'article   
-'doi' : identifiant international de l'article     
-'npi' : non-internventional intervention, ce que nous appellons les TNM pour thérapie non médicamenteuse     
-'ttl': title de l'article     
-'jn': journalname - nom du journal de l'article     
-'pub' : date de publication de l'article     
-'hg' : Health Goal (Prevent, Care or Cure pour Prévention, soin ou guérision)     
-'pop' : type de population étudiée Adulte, Agée, Enfant...      
-'out' : outcome - correspond au résultat ### Attention à filtrer les catégories economical et health ne présentent pas d'intérêt ici ###     
-'abs' : abstract      
-'stype' : study type il s'agit du mode de réalisatin de l'étude revue systématique de al littérature, études comparatives etc.    
-'cntry' : country (pays du 1er auteur)     
-'rd' : research design (décrit la façon dont l'étude a été réalisée interventionnelle, observationnelle...)    
-'method': lié au type d'étude (SR: revue systématique de la littérature, MA: méta-analyses, RCT: essai clinique randommisé...)       
-'sport' : sports concernés      
+- 'pmid' : identifiant PubMed de l'article   
+- 'doi' : identifiant international de l'article     
+- 'npi' : non-internventional intervention, ce que nous appellons les TNM pour thérapie non médicamenteuse     
+- 'ttl': title de l'article     
+- 'jn': journalname - nom du journal de l'article     
+- 'pub' : date de publication de l'article     
+- 'hg' : Health Goal (Prevent, Care or Cure pour Prévention, soin ou guérision)     
+- 'pop' : type de population étudiée Adulte, Agée, Enfant...      
+- 'out' : outcome - correspond au résultat ### Attention à filtrer les catégories economical et health ne présentent pas d'intérêt ici ###     
+- 'abs' : abstract      
+- 'stype' : study type il s'agit du mode de réalisatin de l'étude revue systématique de al littérature, études comparatives etc.    
+- 'cntry' : country (pays du 1er auteur)     
+- 'rd' : research design (décrit la façon dont l'étude a été réalisée interventionnelle, observationnelle...)    
+- 'method': lié au type d'étude (SR: revue systématique de la littérature, MA: méta-analyses, RCT: essai clinique randommisé...)       
+- 'sport' : sports concernés      
 
 ## Objectifs :
 
@@ -40,9 +40,9 @@ Les variables sont les suivantes :
 
 Proposer un outil / interface qui permette aux pratiquants de naviguer dans ces données.
 
-- il peut rechercher un sport, et voir les objectifs et les solutions disponibles
-- il peut rechercher un objectif dans un sport, et trouver les inm disponibles
-- il peut rechercher une inm, et voir quels effets (objectifs) elle a sur quels sports
+- Il peut rechercher un sport, et voir les objectifs et les solutions disponibles
+- Il peut rechercher un objectif dans un sport, et trouver les inm disponibles
+- Il peut rechercher une inm, et voir quels effets (objectifs) elle a sur quels sports
 
 Exemples applicatifs : 
 - je suis danseur et je cherche à améliorer ma souplesse. Je recherche donc sport danse et objectif souplesse, et je vais trouver que l'huile essentielle de patchoulis permet ça (exemple complètement fictif, évidemment!)
