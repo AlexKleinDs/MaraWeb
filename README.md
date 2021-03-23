@@ -10,10 +10,10 @@ Il s’agit de rendre accessible aux amoureux du sport les dernières tendances 
 Chaque publication fait le lien entre un ou des sports, un ou des objectifs (out), une ou des interventions non médicamenteuses (npi)
 On a donc une grande liste de tryptiques inm-objectif-sport, nous avons beaucoup de valeurs manquantes 
 
-Nombre de fichiers : 3 
-Format : CSV, séparateur : |
-Taille du fichier principal : sport.csv 14,3 MO
-Tailles des deux autre fichier : annotated 424 ko, Marathon web_outcomes_detection 57ko.
+Nombre de fichiers : 3    
+Format : CSV, séparateur : |    
+Taille du fichier principal : sport.csv 14,3 MO     
+Tailles des deux autre fichier : annotated 424 ko, Marathon web_outcomes_detection 57ko.      
 
 ### Les variables
 Les variables sont les suivantes :   
