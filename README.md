@@ -57,7 +57,7 @@ Proposer des outils de navigation graphiques (dataviz), de l'info synthétique (
 Déterminer le niveau d'efficacité (peu efficace, relativement efficace, très efficace) pour chaque tryptique sport-inm-objectif (apprentissage) 
 
 ## Outils de gestion :
-Lien trello : https://trello.com/b/9NsPyYEl/kalya
-Github
-Google Drive : https://drive.google.com/drive/u/0/folders/1pJLMzTziITUB9jIHFY_s591EGBLtUHrp
+Lien trello : https://trello.com/b/9NsPyYEl/kalya     
+Github     
+Google Drive : https://drive.google.com/drive/u/0/folders/1pJLMzTziITUB9jIHFY_s591EGBLtUHrp     
 
